@@ -1,0 +1,12 @@
+{
+  "name": "stock-market-academy",
+  "version": "1.0.0",
+  "description": "Stock Market Academy — Learn, Practice, Trade. Educational platform for Indian stock markets.",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
